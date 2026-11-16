@@ -43,16 +43,6 @@ model, and only promotes it to **champion** if it beats the current one.
 You only read the top of the list, so the metric that matters is whether the jobs you'd apply to are near the top.
 NDCG@10 is 1.0 when every 👍 job is ranked above every 👎 job in the top 10, and lower when good jobs are pushed down.
 
-## Changes from the original lab
-
-| Original MLflow Lab 1 | This project |
-|---|---|
-| Linear regression on a fixed dataset | Ranking live job postings against a resume |
-| Logs parameters and metrics of one model | Compares 7 to 9 methods per experiment as nested runs, with ranking metrics |
-| Model logged with a built-in flavour | Custom pyfunc model wrapping the whole ranking method |
-| Serving through `mlflow models serve` | Model Registry with versions, a `champion` alias and an automatic promotion gate |
-| Evaluation on a held-out split | Evaluation on your own ratings, which grow as you use the app |
-| No interface | Streamlit app with Matches, Skill gaps and Experiments tabs |
 
 ## Run it
 
