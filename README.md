@@ -1,7 +1,6 @@
 # Job Matcher: MLflow Lab
 
 A personal job search tool built for the MLflow experiment tracking lab
-([raminmohammadi/MLOps, Experiment_Tracking_Labs/Mlflow_Labs](https://github.com/raminmohammadi/MLOps/tree/main/Labs/Experiment_Tracking_Labs/Mlflow_Labs)).
 
 It fetches **live job postings** from company job boards, ranks them against **your resume**, shows the skills you
 are missing, and learns from your 👍 / 👎 ratings. MLflow tracks every matching method, registers the best one as a
