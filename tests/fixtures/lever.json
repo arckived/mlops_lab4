@@ -1,0 +1,7 @@
+[
+  {"id": "abc-1", "text": "Data Engineer Intern (Summer 2027)", "hostedUrl": "https://example.com/lever/abc-1",
+   "categories": {"location": "New York, NY", "commitment": "Intern", "team": "Data", "allLocations": ["New York, NY", "Remote - US"]},
+   "createdAt": 1762905600000, "descriptionPlain": "Join our data platform team.",
+   "lists": [{"text": "What you'll do", "content": "<li>Build ETL pipelines with Spark and Airflow</li><li>Write SQL</li>"}],
+   "additionalPlain": "We sponsor visas."}
+]

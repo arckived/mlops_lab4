@@ -1,0 +1,7 @@
+{"jobs": [
+  {"id": 101, "title": "Machine Learning Engineer, New Grad", "absolute_url": "https://example.com/gh/101",
+   "location": {"name": "San Francisco, CA"}, "updated_at": "2026-11-10T12:00:00-05:00", "first_published": "2026-11-08T09:00:00-05:00",
+   "content": "&lt;p&gt;Build models with &lt;strong&gt;PyTorch&lt;/strong&gt; and Python.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Deploy with Docker and Kubernetes&lt;/li&gt;&lt;/ul&gt;"},
+  {"id": 102, "title": "Senior Account Executive", "absolute_url": "https://example.com/gh/102",
+   "location": {"name": "London, UK"}, "updated_at": "2026-11-01T12:00:00Z", "content": "&lt;p&gt;Sell to enterprise customers.&lt;/p&gt;"}
+]}

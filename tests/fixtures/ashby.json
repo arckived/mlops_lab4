@@ -1,0 +1,6 @@
+{"jobs": [
+  {"id": "z-9", "title": "Data Scientist, Early Career", "location": "Boston, MA", "isRemote": true, "isListed": true,
+   "jobUrl": "https://example.com/ashby/z-9", "publishedAt": "2026-11-12T00:00:00.000+00:00", "employmentType": "FullTime",
+   "descriptionPlain": "A/B testing, statistics, Python and SQL.", "secondaryLocations": [{"location": "Toronto, Canada"}]},
+  {"id": "z-10", "title": "Hidden role", "location": "Boston, MA", "isListed": false, "jobUrl": "", "descriptionPlain": ""}
+]}

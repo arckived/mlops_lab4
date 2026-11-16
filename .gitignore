@@ -1,0 +1,14 @@
+# Personal data: resume, fetched jobs and ratings never leave this computer
+data/
+
+# MLflow tracking database and artifacts (local experiment history)
+mlflow.db
+mlartifacts/
+mlruns/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.DS_Store

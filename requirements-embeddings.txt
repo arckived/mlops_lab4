@@ -1,0 +1,4 @@
+# Optional: adds the meaning-based "embedding" matching methods to the experiments.
+# Large download (PyTorch). The model itself is downloaded from huggingface.co on first use.
+-r requirements.txt
+sentence-transformers==6.3.0
